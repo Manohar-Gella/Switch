@@ -26,6 +26,7 @@ int main(){
       case 'F':
          printf("YOU FAILED!\n");
          break;
+    
       default:
          printf("Please enter only valid grades");
    }
