@@ -1,6 +1,6 @@
 // program to greet a person on behalf of the gender
 
-let gender = "male";
+let gender = "female";
 
 if(gender === "male"){
     console.log("Hello sir");
