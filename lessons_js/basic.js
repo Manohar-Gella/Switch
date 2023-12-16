@@ -1,8 +1,4 @@
-let fname = "Manohar";
-let lname = "Gella";
-let age = 18;
+let name = "User name";
+let age, gender;
 
-console.log(fname, lname, age);
-
-// fuck you dude wtf
-// the new comment
+console.log(name);
