@@ -1,4 +1,9 @@
-let name = "User name";
-let age, gender;
+// data types of javascript
 
-console.log(name);
+let fname = "Manohar";
+var lname = "Gella";
+const age = 18;
+
+console.log(fname);
+console.log(lname);
+console.log(age);
