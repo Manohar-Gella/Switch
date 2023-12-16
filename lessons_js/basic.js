@@ -4,4 +4,4 @@ let age = 18;
 
 console.log(fname, lname, age);
 
-// fuck you dude
+// fuck you dude wtf
