@@ -1,4 +1,4 @@
-// functions in javascript
+// functions in javascript.
 
 function addision(a, b){
     return a+b;
