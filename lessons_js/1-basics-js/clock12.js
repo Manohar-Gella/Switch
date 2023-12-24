@@ -1,4 +1,4 @@
-// terminal clock in javascript
+// terminal clock in javascript.
 
 function displayTime() {
     const now = new Date();
