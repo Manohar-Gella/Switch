@@ -1,4 +1,4 @@
-// program to greet a person on behalf of the gender
+// program to greet a person on behalf of the gender.
 
 let gender = "female";
 
