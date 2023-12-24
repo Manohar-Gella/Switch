@@ -1,4 +1,4 @@
-// data types of javascript
+// data types of javascript.
 
 let fname = "Manohar";
 var lname = "Gella";
