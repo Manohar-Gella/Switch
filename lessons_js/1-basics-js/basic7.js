@@ -1,4 +1,4 @@
-// larges number in an array
+// larges number in an array.
 
 // Example array
 const numbers = [3, 8, 2, 10, 5];
