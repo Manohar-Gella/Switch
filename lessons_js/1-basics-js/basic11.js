@@ -1,4 +1,4 @@
-// function exe 2 using setTimeout
+// function exe 2 using setTimeout. 
 function greetdad() {
     console.log("Hello daddy");
 }
