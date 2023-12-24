@@ -1,4 +1,4 @@
-// loops in java
+// loops in javascript
 
 let ans = 0;
 
