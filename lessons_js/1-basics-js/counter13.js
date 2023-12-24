@@ -1,4 +1,4 @@
-// counter 0 -30 seconds in javascript
+// counter 0 -30 seconds in javascript.
 function countdown() {
     let count = 30;
   
