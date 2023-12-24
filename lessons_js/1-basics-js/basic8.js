@@ -1,4 +1,4 @@
-// objects in javascript
+// objects in javascript.
 
 const users = [{
     firstname: "Manohar",
