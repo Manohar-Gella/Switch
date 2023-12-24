@@ -1,3 +1,5 @@
+// map, filter, find, sort are very imp
+// above topics are linked with callback functions
 // Important stuff
 // Array handbook
 
@@ -57,6 +59,8 @@ function pushExample(arr, element) {
   concatExample([1, 2, 3], [4, 5, 6]);
   
   // forEach()
+  // prints each element of an array seperately
+
   function forEachExample(arr) {
     console.log("Original Array:", arr);
   
@@ -67,6 +71,7 @@ function pushExample(arr, element) {
   forEachExample([1, 2, 3]);
   
   // map()
+  //
   function mapExample(arr) {
     console.log("Original Array:", arr);
   
@@ -78,6 +83,7 @@ function pushExample(arr, element) {
   mapExample([1, 2, 3]);
   
   // filter()
+  //
   function filterExample(arr) {
     console.log("Original Array:", arr);
   
@@ -89,6 +95,7 @@ function pushExample(arr, element) {
   filterExample([1, 2, 3, 4, 5]);
   
   // find()
+  //
   function findExample(arr) {
     console.log("Original Array:", arr);
   
@@ -100,6 +107,7 @@ function pushExample(arr, element) {
   findExample([1, 2, 3, 4, 5]);
   
   // sort()
+  //
   function sortExample(arr) {
     console.log("Original Array:", arr);
   
