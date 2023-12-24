@@ -1,4 +1,4 @@
-// if statements in Javascript
+// if statements in Javascript.
 
 let status = true;
 
