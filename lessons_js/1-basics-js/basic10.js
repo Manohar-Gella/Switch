@@ -1,4 +1,4 @@
-// fucction exe
+// fucction exe.
 function sum(num1, num2, fnToCall) {
     let result = num1 + num2;
     fnToCall(result);
