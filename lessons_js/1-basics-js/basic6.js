@@ -1,4 +1,4 @@
-// advanced arrays
+// advanced arrays.
 
 let names = ["Manohar Gella", "Nirmala Gella", "Neriyya Gella", "Pavithra Gella"];
 let gender = ["male", "female", "male", "female"];
