@@ -1,20 +1,19 @@
-const express = require('express');
-const app = express();
-const port = 3000;
-app.use(express.json());
+console.log('Manohar Gella');
+let ans  = 0;
+setTimeout(() => {
+    for(let i = 0; i<=30000; i++){
+        ans++;   
+    }
+},3000);
+setTimeout(() => {
+    console.log(ans)
+}, 4000);
+console.log('Rvow the fefslafasdlf');
+console.log('Rvow the fefslafasdlf');
 
-let counter = 0;
-function addup(req, res, next){
-    counter ++;
-    res.send({
-        counter
-    })
-};
+console.log('Rvow the fefslafasdlf');
 
-app.use(addup());
+console.log('Rvow the fefslafasdlf');
 
-app.get('/check', addup, function(req, res) {
-    res.send("No of reqeusts: " + addup);
-    
-})
+
 
