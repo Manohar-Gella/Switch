@@ -1,0 +1,1 @@
+/Users/manohargella/Desktop/General\ Stuff/CP/Rust-Frontend/RustFrontEnd/target/wasm32-unknown-unknown/debug/RustFrontEnd.wasm: /Users/manohargella/Desktop/General\ Stuff/CP/Rust-Frontend/RustFrontEnd/src/main.rs

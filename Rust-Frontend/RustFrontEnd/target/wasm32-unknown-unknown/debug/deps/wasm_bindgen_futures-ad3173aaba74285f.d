@@ -1,0 +1,9 @@
+/Users/manohargella/Desktop/General Stuff/CP/Rust-Frontend/RustFrontEnd/target/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-ad3173aaba74285f.rmeta: /Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/lib.rs /Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/queue.rs /Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/task/singlethread.rs
+
+/Users/manohargella/Desktop/General Stuff/CP/Rust-Frontend/RustFrontEnd/target/wasm32-unknown-unknown/debug/deps/libwasm_bindgen_futures-ad3173aaba74285f.rlib: /Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/lib.rs /Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/queue.rs /Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/task/singlethread.rs
+
+/Users/manohargella/Desktop/General Stuff/CP/Rust-Frontend/RustFrontEnd/target/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-ad3173aaba74285f.d: /Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/lib.rs /Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/queue.rs /Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/task/singlethread.rs
+
+/Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/lib.rs:
+/Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/queue.rs:
+/Users/manohargella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.40/src/task/singlethread.rs:
