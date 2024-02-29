@@ -1,0 +1,22 @@
+*Neo Vim shortcut keys*
+
+1. Space + e   -> to open the side bar
+2. d  -> to delete the file form the side bar and also from the main directory 
+3. r  -> to rename the file form the side bar and also from the main directory
+4. space + ff  -> open the search bar and to search files
+	  esc, esc to exit the file search or to close any window
+5. G ->  to reach the last line of the code
+6. gg -> to reach the first line of the code
+7. 0 -> to reach the start of the line
+8. $ -> to reach the end of the line
+9. l -> to move cursor letter by letter for right side
+10. h -> to move cursor letter by letter for left side
+11. e -> to move cursor forward from each word of line
+12.  -> to move cursor backward from each word of line
+13. space, s, g -> search across the code base for any components, class that self written
+14. : , %s/pic-some-file/new-line  -> to change similar code line at a time
+15. : , vs -> to vertical split the screen
+16. : , sp -> horizontal split of the screen
+17. control + h -> to move to left screen split
+18. control + l -> to move to right screen split
+19. 
