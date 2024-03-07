@@ -1,0 +1,22 @@
+*TAGS*
+
+<html>
+<head>
+<title>
+<body>
+<div>/<span>
+<h1> - <h6>
+<p>
+<img>
+<a>
+<input>
+<button>
+<b>/<i>
+<center>
+
+*Atributes*
+
+<img src="a.png">
+<a herf="google.com">
+<button onclick="">
+<input id="username">
