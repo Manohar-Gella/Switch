@@ -1,0 +1,8 @@
+*Common styling arrtibutes*
+
+color
+background
+border-radius
+border
+pading / margin
+box-shadow
