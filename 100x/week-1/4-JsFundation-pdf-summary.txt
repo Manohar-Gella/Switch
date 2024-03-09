@@ -1,0 +1,40 @@
+🔴How to do computers work?
+-> Intalled programms are stored in SSD
+    when the program is opened they ran to RAM for processing
+    when program opened binary is what hpenning insite of the RAM
+-> Software is written in programming language
+    Comilers conver high level program into low level code that computer can understand and computers only understand binary (0101010)
+
+
+🔴What are compilers - Compilers convert high level developer friendly code into 0s and 1s
+
+🔴ex: compiling C++ code
+    g++ a.cpp temp
+    ./temp
+
+🔴diffrence btween compiled language and interpreted language
+
+    🔴Compiled languages
+    1. First need to compile, then need to run
+    2. Usually don’t compile if there is
+    an error in the code
+    3. Example - C++, Java, Rust, Golang 
+
+    🔴Interpreted Languages
+    1. Usually go line by line
+    2. Can run partially if the error comes later
+    3. Example - Javascript, Python
+
+🔴Static vs dynamic Languages
+    
+    🔴Static - strict code
+    🔴Dynamic - Can move fast easy to understand
+
+🔴Js is Single threaded language
+🔴Js Can only use one core at a time
+🔴Js runs line by line
+🔴Js can partially executed with eroors
+
+    
+
+
