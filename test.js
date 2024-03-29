@@ -1,5 +1,5 @@
-for(let i = 0; i<=20; i++){
-    console.log(i);
+function wish(){
+    console.log("Hey bro");
 }
 
-// code push only
+let message = setTimeout(wish, 2*1000);
