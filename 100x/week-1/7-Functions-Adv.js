@@ -67,3 +67,12 @@ function grett(){
 }
 
 let message = setTimeout(grett, 3 * 1000);
+
+// function that can find the length of a string
+
+function findLength(x){
+    let length = x.length;
+    console.log(`Length of ${x} is : ${length}`);
+}
+
+let str = findLength('Manoahr');
