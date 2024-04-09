@@ -1,0 +1,14 @@
+function add(x, y){
+    return new Promise(
+        function(resolve){
+            let sol = x+y;
+            resolve(sol)
+        }
+    )
+}
+
+function display(data){
+    console.log(data);
+}
+
+add(2, 3).then(display)
