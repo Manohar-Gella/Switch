@@ -1,0 +1,3 @@
+ls:
+
+    -l : perimission of the partiular folder
