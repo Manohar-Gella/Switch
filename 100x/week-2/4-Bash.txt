@@ -1,0 +1,17 @@
+pwd - to get the path of current directory
+
+cd - to chane the directory
+
+ls - to show the list of directories in the folder
+
+mkdir_file_name - to make a new folder
+
+touch - to make a new file
+
+cat - prints the contents of a file
+
+vi - to open the vim code editor
+
+mv oldName newName - to rename the file
+
+cp which where - copy file
