@@ -1,0 +1,6 @@
+Steps to create a react project using vite
+
+1 -> npm create vite@latest
+2 -> project name: xyz
+3 -> framework: react
+4 -> variant: JS, Ts any according to the requiremnt
