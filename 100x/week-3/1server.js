@@ -1,5 +1,5 @@
 // server building in express
-// step 1 - npm install -y
+// step 1 - npm init -y
 // step 2 - npm install express
 
 const express = require('express');
