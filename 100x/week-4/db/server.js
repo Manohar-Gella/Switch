@@ -1,3 +1,7 @@
+// this is a post server which is connected to mongodbs cluster link
+// "mongodb+srv://tester:Manohargella77@cluster0.q4fqx9w.mongodb.net/moonlight" here insted of moonlight we can go with coustom
+// npm install express, mongoose, mongodb
+
 const express = require('express');
 const app = express();
 const port = 5050;
