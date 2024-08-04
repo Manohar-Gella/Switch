@@ -1,4 +1,6 @@
+#include <stdio.h>
 #include<stdlib.h>
+
 typedef struct cell {
 int val;
 struct cell *next;
@@ -10,11 +12,11 @@ void display();
 void main()
 {
 int value, choice;
-clrscr();
+
 while(1){
-printf("***** MENU *****");
-printf("1. Push \n2. Pop\n3. Display\n4. Exit");
-printf("Enter your choice: ");
+printf("\n\n***** MENU *****\n");
+printf("1. Push\n2. Pop\n3. Display\n4. Exit");
+printf("\nEnter your choice: \n");
 scanf("%d", &choice);
 switch(choice)
 {
@@ -27,7 +29,7 @@ break;
 case 3: display();
 break;
 case 4: exit(0);
-default: printf("Wrong selection!!! Try again!!!");
+default: printf("\nWrong selection!!! Try again!!!");
 }
 }
 }
@@ -44,7 +46,7 @@ int pop()
 int top;
 cell *old;
 if (head==NULL)
-printf("pop empty stack error ");
+printf("pop empty stack error \n");
 top = head->val;
 old =head;
 head = head->next;
@@ -55,7 +57,7 @@ return top;
 void display()
 {
 if(head == NULL)
-printf("Stack is Empty!!!");
+printf("\nStack is Empty!!!\n");
 else
 {
 cell *temp = (cell*) malloc(sizeof(cell));
