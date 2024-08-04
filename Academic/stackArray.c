@@ -1,4 +1,4 @@
-// stack implementation of array
+// stack implementation of array.
 #include<stdio.h>
 #define SIZE 5
 int stack[SIZE];
